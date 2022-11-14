@@ -1,0 +1,20 @@
+{
+  "name": "@eevee/standard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eevee-lib/standard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eevee-lib/standard/issues"
+  },
+  "homepage": "https://github.com/eevee-lib/standard#readme"
+}
